@@ -1,3 +1,3 @@
-# Joint_Project
-link to colab:
+# Joint Project
+Google colab link:
 https://colab.research.google.com/drive/1SJskDyQg-ENeTLOpbKhWoEmdTbGiOpAA?usp=sharing
